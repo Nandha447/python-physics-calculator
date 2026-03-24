@@ -4,3 +4,5 @@ this project is based on chapters gravitaion and work and energy chapters
 based class 9 physics curricullum from NCERT India
 more changes to be made soon
 
+*This project has been depreciated.*
+
